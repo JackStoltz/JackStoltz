@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**JackStoltz/JackStoltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JackStoltz@GitHub:~$ fastfetch
+         %%%####%%%%% %#**#%                     JackStoltz@GitHub
+     %%*=============+%*==*%                     -----------------
+   %#=======+*****+=======*%                     Name: Jack Stoltz
+  %+=====*%%       %%#+===*%                     School: Georgia Tech
+@%=====+%              %%%%%                     Major: Computer Engineering
+%=====+%         %#=========================#    Expected Grad: May 2027
+%=====*%         %#=========================#    Currently: GPU Engineering Intern @ Intel
+%=====+%         %#==*%%*==#%%====+%%%%%%+==#    Previously: Aquabots Lab, Qwzrd, New York Edge
+%%=====*%        %%%%%%#===# %====+%    %%%%%    Languages: Python, Java, C++, JavaScript
+ %#======#%@        %%+====# %====+%             Frameworks: React, Node, Flask, Django
+   %*========*%%%%*========# %====+%             Tools/Platforms: Git/Github, Docker, AWS
+     %%+============+*%%+++% %====+%             LinkedIn: https://linkedin.com/in/jack-stoltz
+         %%%%%%%%%%       %%%%====+%%%           GitHub: https://github.com/JackStoltz
+                          %#=========%           Website: https://jackwstoltz.com
+                          %#*********%           Email: jstoltz5@gmail.com

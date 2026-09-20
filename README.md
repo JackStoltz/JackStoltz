@@ -6,8 +6,8 @@ JackStoltz@GitHub:~$ fastfetch
   %+=====*%%       %%#+===*%                     School:          Georgia Tech
 @%=====+%              %%%%%                     Major:           Computer Engineering
 %=====+%         %#=========================#    Expected Grad:   December 2027
-%=====*%         %#=========================#    Currently:       CPU Performance Software Engineer Intern @ AMD
-%=====+%         %#==*%%*==#%%====+%%%%%%+==#    Previously:      Intel, Aquabots Lab, BrainBoost Lab Qwzrd, New York Edge
+%=====*%         %#=========================#    Currently:       Student!
+%=====+%         %#==*%%*==#%%====+%%%%%%+==#    Previously:      AMD, Intel, GT AquaBots Lab, GT TA, GT BrainBoost Lab
 %%=====*%        %%%%%%#===# %====+%    %%%%%    Languages:       Python, C++, TypeScript
  %#======#%@        %%+====# %====+%             Frameworks:      Flask, React, PyTorch, TensorFlow
    %*========*%%%%*========# %====+%             Tools/Platforms: Git, Docker, AWS, Supabase

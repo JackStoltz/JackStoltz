@@ -16,3 +16,4 @@ JackStoltz@GitHub:~$ fastfetch
                           %#=========%           Website:         https://jackwstoltz.com
                           %#*********%           Email:           jstoltz6@gatech.edu
 ```
+Mostly working in stealth now.
